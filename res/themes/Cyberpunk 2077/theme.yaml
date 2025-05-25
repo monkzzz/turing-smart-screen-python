@@ -8,7 +8,7 @@ display:
 
 static_images:
   BACKGROUND:
-    PATH:  background.png
+    PATH: background.png
     X: 0
     Y: 0
     WIDTH: 1920
@@ -16,21 +16,21 @@ static_images:
 
 static_text:
   CPU:
-   TEXT: CPU
-   X: 1120
-   Y: 44
-   FONT: racespace/RACESPACEREGULAR-Extended.otf
-   FONT_SIZE: 34
-   FONT_COLOR: 255, 239, 47
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Ryzen 9 7900X
+    X: 1120
+    Y: 44
+    FONT: racespace/RACESPACEREGULAR-Extended.otf
+    FONT_SIZE: 34
+    FONT_COLOR: 255, 239, 47
+    BACKGROUND_IMAGE: background.png
   GPU:
-   TEXT: GPU
-   X: 1120
-   Y: 85
-   FONT: racespace/RACESPACEREGULAR-Extended.otf
-   FONT_SIZE: 34
-   FONT_COLOR: 255, 239, 47
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Radeon RX 7900XT
+    X: 1120
+    Y: 85
+    FONT: racespace/RACESPACEREGULAR-Extended.otf
+    FONT_SIZE: 34
+    FONT_COLOR: 255, 239, 47
+    BACKGROUND_IMAGE: background.png
 
 STATS:
   CPU:

@@ -8,117 +8,117 @@ display:
 
 static_text:
   CPULOAD:
-   TEXT: CPU Load
-   X: 38
-   Y: 130
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Ryzen 9 7900X Load
+    X: 38
+    Y: 130
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   CPUTEMP:
-   TEXT: CPU Temp°
-   X: 188
-   Y: 130
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Ryzen 9 7900X Temp°
+    X: 188
+    Y: 130
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   CPUCLOCK:
-   TEXT: CPU Clock
-   X: 344
-   Y: 130
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Ryzen 9 7900X Clock
+    X: 344
+    Y: 130
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   GPULOAD:
-   TEXT: GPU Load
-   X: 38
-   Y: 280
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Radeon RX 7900XT Load
+    X: 38
+    Y: 280
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   GPUTEMP:
-   TEXT: GPU Temp°
-   X: 188
-   Y: 280
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Radeon RX 7900XT Temp°
+    X: 188
+    Y: 280
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   GPURAM:
-   TEXT: GPU RAM
-   X: 348
-   Y: 280
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: AMD Radeon RX 7900XT RAM
+    X: 348
+    Y: 280
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   RAMLOAD:
-   TEXT: RAM Load
-   X: 498
-   Y: 130
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: RAM Load
+    X: 498
+    Y: 130
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   RAMFREE:
-   TEXT: RAM Free
-   X: 658
-   Y: 130
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: RAM Free
+    X: 658
+    Y: 130
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   ETHDOWN:
-   TEXT: ETH Downl.
-   X: 494
-   Y: 280
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: ETH Downl.
+    X: 494
+    Y: 280
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   ETHUP:
-   TEXT: ETH Upload
-   X: 648
-   Y: 280
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: ETH Upload
+    X: 648
+    Y: 280
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   WLDOWN:
-   TEXT: WL Downl.
-   X: 498
-   Y: 430
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: WL Downl.
+    X: 498
+    Y: 430
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   WLUP:
-   TEXT: WL Upload
-   X: 654
-   Y: 430
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: WL Upload
+    X: 654
+    Y: 430
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   DISKLOAD:
-   TEXT: DISK Load
-   X: 190
-   Y: 430
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: DISK Load
+    X: 190
+    Y: 430
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
   DISKFREE:
-   TEXT: DISK Free
-   X: 348
-   Y: 430
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 24
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background_grid.png
+    TEXT: DISK Free
+    X: 348
+    Y: 430
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 24
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background_grid.png
 
 static_images:
   BACKGROUND:

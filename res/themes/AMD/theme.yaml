@@ -8,7 +8,7 @@ display:
 
 static_images:
   BACKGROUND:
-    PATH:  background.png
+    PATH: background.png
     X: 0
     Y: 0
     WIDTH: 1920
@@ -16,37 +16,37 @@ static_images:
 
 static_text:
   CPU:
-   TEXT: CPU
-   X: 1630
-   Y: 64
-   FONT: roboto-mono/RobotoMono-Bold.ttf
-   FONT_SIZE: 38
-   FONT_COLOR: 224, 2, 48
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Ryzen 9 7900X
+    X: 1630
+    Y: 64
+    FONT: roboto-mono/RobotoMono-Bold.ttf
+    FONT_SIZE: 38
+    FONT_COLOR: 224, 2, 48
+    BACKGROUND_IMAGE: background.png
   RAM:
-   TEXT: RAM
-   X: 1630
-   Y: 156
-   FONT: roboto-mono/RobotoMono-Bold.ttf
-   FONT_SIZE: 38
-   FONT_COLOR: 224, 2, 48
-   BACKGROUND_IMAGE: background.png
+    TEXT: RAM
+    X: 1630
+    Y: 156
+    FONT: roboto-mono/RobotoMono-Bold.ttf
+    FONT_SIZE: 38
+    FONT_COLOR: 224, 2, 48
+    BACKGROUND_IMAGE: background.png
   GPU:
-   TEXT: GPU
-   X: 58
-   Y: 66
-   FONT: roboto-mono/RobotoMono-Bold.ttf
-   FONT_SIZE: 70
-   FONT_COLOR: 224, 2, 48
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Radeon RX 7900XT
+    X: 58
+    Y: 66
+    FONT: roboto-mono/RobotoMono-Bold.ttf
+    FONT_SIZE: 70
+    FONT_COLOR: 224, 2, 48
+    BACKGROUND_IMAGE: background.png
   TIME:
-   TEXT: TIME
-   X: 1533
-   Y: 332
-   FONT: roboto-mono/RobotoMono-Bold.ttf
-   FONT_SIZE: 36
-   FONT_COLOR: 205, 205, 205
-   BACKGROUND_IMAGE: background.png
+    TEXT: TIME
+    X: 1533
+    Y: 332
+    FONT: roboto-mono/RobotoMono-Bold.ttf
+    FONT_SIZE: 36
+    FONT_COLOR: 205, 205, 205
+    BACKGROUND_IMAGE: background.png
 
 STATS:
   CPU:
@@ -103,5 +103,5 @@ STATS:
         FONT_SIZE: 70
         FONT_COLOR: 205, 205, 205
         BACKGROUND_IMAGE: background.png
-        ALIGN: left  # left / center / right
-        ANCHOR: rt   # Check https://pillow.readthedocs.io/en/stable/handbook/text-anchors.html
+        ALIGN: left # left / center / right
+        ANCHOR: rt # Check https://pillow.readthedocs.io/en/stable/handbook/text-anchors.html

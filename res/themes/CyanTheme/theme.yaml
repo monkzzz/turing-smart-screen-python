@@ -8,29 +8,29 @@ display:
 
 static_text:
   GPU_MODEL:
-   TEXT: RTX3080TI
-   X: 124
-   Y: 209
-   FONT: roboto-mono/RobotoMono-Regular.ttf
-   FONT_SIZE: 25
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Radeon RX 7900XT
+    X: 124
+    Y: 209
+    FONT: roboto-mono/RobotoMono-Regular.ttf
+    FONT_SIZE: 25
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background.png
   CPU_MODEL:
-   TEXT: I9 10900K
-   X: 124
-   Y: 375
-   FONT: roboto-mono/RobotoMono-Regular.ttf
-   FONT_SIZE: 25
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Ryzen 9 7900X
+    X: 124
+    Y: 375
+    FONT: roboto-mono/RobotoMono-Regular.ttf
+    FONT_SIZE: 25
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background.png
   RAM_MODEL:
-   TEXT: DDR4-2400
-   X: 124
-   Y: 550
-   FONT: roboto-mono/RobotoMono-Regular.ttf
-   FONT_SIZE: 25
-   FONT_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background.png
+    TEXT: DDR4-2400
+    X: 124
+    Y: 550
+    FONT: roboto-mono/RobotoMono-Regular.ttf
+    FONT_SIZE: 25
+    FONT_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background.png
 
 static_images:
   BACKGROUND:

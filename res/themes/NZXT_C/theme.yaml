@@ -15,23 +15,23 @@ static_images:
     HEIGHT: 480
 static_text:
   CPU_MODEL:
-   TEXT: I9 10900K
-   X: 80
-   Y: 32
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 30
-   FONT_COLOR: 184, 225, 254
-   # BACKGROUND_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Ryzen 9 7900X
+    X: 80
+    Y: 32
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 30
+    FONT_COLOR: 184, 225, 254
+    # BACKGROUND_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background.png
   GPU_MODEL:
-   TEXT: RTX3080TI
-   X: 314
-   Y: 32
-   FONT: roboto/Roboto-Bold.ttf
-   FONT_SIZE: 30
-   FONT_COLOR: 209, 255, 220
-   # BACKGROUND_COLOR: 255, 255, 255
-   BACKGROUND_IMAGE: background.png
+    TEXT: AMD Radeon RX 7900XT
+    X: 314
+    Y: 32
+    FONT: roboto/Roboto-Bold.ttf
+    FONT_SIZE: 30
+    FONT_COLOR: 209, 255, 220
+    # BACKGROUND_COLOR: 255, 255, 255
+    BACKGROUND_IMAGE: background.png
 STATS:
   CPU:
     PERCENTAGE:
